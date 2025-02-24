@@ -1,2 +1,2 @@
-# Big-Data-Management-Analytics-
+# Big-Data-Management-Analytics
 Sem 3
